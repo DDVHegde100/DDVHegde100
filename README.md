@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DDVHegde100
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, C, and XML.
+- 🌱 I’m currently learning Machine Learning, XML, R, Kotlin, C#, and SQL.
 - Reach me through my gmail: DDVHegde100@gmail.com
 

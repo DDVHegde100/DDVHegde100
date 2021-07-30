@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DDVHegde100
 - 🌱 I’m currently learning Machine Learning, XML, R, Kotlin, C#, and SQL.
 - I know the following languages well: HTML, CSS(& Variants), JavaScript(& Variants), Java, Python, and C++
-- Reach me through my gmail: DDVHegde100@gmail.com
+- Reach me through my gmail: DDVHegde100@gmail.com, truetechnerds@gmail.com

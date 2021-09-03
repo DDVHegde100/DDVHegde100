@@ -14,4 +14,4 @@ ________________________________________________________________________________
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDVHegde100)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 
 
-*Github Statistics made by Anuraghazra & others. Click statistics boxes to view his project.
+*Github Statistics made by Anuraghazra,DenverCoder2, etc. Click statistics boxes to view his project.

@@ -4,6 +4,4 @@
 - Reach me through my gmail: DDVHegde100@gmail.com, truetechnerds@gmail.com
 - Trying to reach 900 Contributions by the end of summer.(Edit: I acheived my previous goal of 600 contributions! Edit2: I reached 900 Contributions in past 2 months!)
 - Check out my website: dhruvhegde.qoom.space for more information about me and services I provide(including webpage development).
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDVHegde100)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDVHegde100&show_icons=true&theme=radical)

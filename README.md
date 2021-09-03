@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DDVHegde100&theme=dark)](https://git.io/streak-stats&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDVHegde100)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+![MyAwesomeWebDevStack](https://awesome-stack.glitch.me/api/v1/cards?name=Borrus-sudo&repos=jsgandalf,vue-generator-graph,awesome-stack&theme=dracula)
 
 
 *Github Statistics made by Anuraghazra,DenverCoder2, etc. Click statistics boxes to view his project.

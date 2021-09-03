@@ -6,7 +6,10 @@
 - Check out my website: dhruvhegde.qoom.space for more information about me and services I provide(including webpage development).
 ___________________________________________________________________________________________________________________________________________________________
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDVHegde100&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDVHegde100)](https://github.com/anuraghazra/github-readme-stats)
 
+
+*Github Statistics made by Anuraghazra & others. Click statistics boxes to view his project.

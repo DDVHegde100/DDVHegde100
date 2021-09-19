@@ -13,6 +13,4 @@ ________________________________________________________________________________
 
 ![MyAwesomeWebDevStack](https://awesome-stack.glitch.me/api/v1/cards?name=Borrus-sudo&repos=jsgandalf,vue-generator-graph,awesome-stack&theme=dark)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DDVHegde100&langs_count=5&theme=tokyonight)]()
-
 *Github Statistics made by Anuraghazra,DenverCoder2, etc. Click statistics boxes to view their projects.

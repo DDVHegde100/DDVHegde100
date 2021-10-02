@@ -13,8 +13,6 @@ ________________________________________________________________________________
 
 ![MyAwesomeWebDevStack](https://awesome-stack.glitch.me/api/v1/cards?name=Borrus-sudo&repos=jsgandalf,vue-generator-graph,awesome-stack&theme=dark)
 
-![Metrics](https://gist.githubusercontent.com/DDVHegde100/1fd8e35581cf049787df45239f3a5c35/raw/github-metrics.svg)
-
 ![](https://komarev.com/ghpvc/?username=DDVHegde100)
 
 

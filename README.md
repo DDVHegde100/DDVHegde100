@@ -3,7 +3,7 @@ ________________________________________________________________________________
 - I’m currently learning Machine Learning, R, Kotlin, C#, and SQL.
 - I know the following languages well: HTML, XML, CSS(& Variants), JavaScript(& Variants), Java, Python, PHP, and C++
 - Reach me through my gmail: DDVHegde100@gmail.com, truetechnerds@gmail.com
-- Merry Chritmas! I reached my goal for contributions this year!
+- Currently Working on Bigger Projects!
 - Check out my website: dhruvhegde.qoom.space for more information about me and services I provide(including webpage development).
 ___________________________________________________________________________________________________________________________________________________________
 

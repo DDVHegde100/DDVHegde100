@@ -12,8 +12,6 @@ ________________________________________________________________________________
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DDVHegde100&theme=dark)](https://git.io/streak-stats&theme=dark)
 
-![MyAwesomeWebDevStack](https://awesome-stack.glitch.me/api/v1/cards?name=Borrus-sudo&repos=jsgandalf,vue-generator-graph,awesome-stack&theme=dark)
-
 ![](https://komarev.com/ghpvc/?username=DDVHegde100)
 
 

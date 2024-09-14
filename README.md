@@ -1,5 +1,5 @@
 <h1>Greetings, I'm Dhruv</h1>
-<h3>A rising senior in high school with interests in mechanical and computer engineering. Currently looking further into simulation programming for connected systems and neural networks.</h3>
+<h3>A senior with interests in mechanical and computer engineering. Currently looking further into simulation programming for connected systems and neural networks.</h3>
 
 - I’m currently working on **Engineering Simulation Projects**
 - I’m currently learning **TensorFlow, Keras, Simulink**

@@ -1,14 +1,54 @@
-<h1>Greetings, I'm Dhruv</h1>
-<h3>A senior with interests in mechanical and computer engineering. Currently looking further into simulation programming for connected systems and neural networks.</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Dhruv+Hegde!;CS+%2B+MechE+@+University+of+Michigan;Developer+%7C+Builder+%7C+Simulations+Enthusiast" alt="Typing SVG" />
+</p>
 
-- I’m currently working on **Engineering Simulation Projects**
-- I’m currently learning **TensorFlow, Keras, Simulink**
-- All of my projects are available at [dhruvhegde.com](dhruvhegde.com)
-- How to reach me **dhruvhegde@dhruvhegde.com**
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
+## 👋 About Me  
 
+- 🎓 **Double majoring in CS and Mechanical Engineering** at the University of Michigan — Ann Arbor  
+- 💡 Passionate about building tools, simulations, and AI-powered applications  
+- 🛠 Currently diving deep into **TensorFlow**, **Simulink**, and advanced **engineering simulation projects**  
+- 📈 Interested in startups, indie development, and innovative digital services  
+- 🔭 Always exploring ideas at the intersection of **hardware**, **software**, and **AI**
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DDVHegde100&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![](https://komarev.com/ghpvc/?username=DDVHegde100)
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DDVHegde100&show_icons=true&theme=tokyonight&hide_border=true" alt="Dhruv's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDVHegde100&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 📈 Contributions  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DDVHegde100&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 🔧 Tools & Technologies  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,react,nodejs,matlab,arduino,flask,figma,js,html,css,github,simulink&perline=8" alt="Skill Icons"/>
+</p>
+
+---
+
+## 📬 Connect with Me  
+
+<p align="center">
+  <a href="mailto:dhruvhegde@dhruvhegde.com"><img src="https://img.shields.io/badge/Email-Dhruv%20Hegde-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dhruvhegde/"><img src="https://img.shields.io/badge/LinkedIn-Dhruv%20Hegde-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DDVHegde100&label=Profile%20Views&color=0E75B6&style=flat" alt="profile views" />
+</p>

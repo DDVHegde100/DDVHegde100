@@ -31,7 +31,6 @@
 ## Contributions  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DDVHegde100&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Dhruv+Hegde!;CS+%2B+MechE+@+University+of+Michigan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=0362fc&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Dhruv+Hegde!;CS+%2B+MechE+@+University+of+Michigan" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <table>
 <tr>
@@ -28,14 +28,14 @@
 
 ---
 
-## 📈 Contributions  
+## Contributions  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DDVHegde100&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 
-## 📬 Connect with Me  
+## Connect with Me  
 
 <p align="center">
   <a href="mailto:dhegde@umich.edu"><img src="https://img.shields.io/badge/Email-Dhruv%20Hegde-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>

@@ -27,25 +27,6 @@ I'm a double major in **Computer Science** and **Mechanical Engineering** at the
 
 ---
 
-## Recent Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DDVHegde100&theme=github-compact&hide_border=true&bg_color=0d1117&color=7c3aed&line=7c3aed&point=f8f9fa&area=true&area_color=7c3aed" alt="Contribution Graph"/>
-</div>
-
----
-
-## Technologies
-
-**Languages & Frameworks:**
-```
-TypeScript/JavaScript  █████████████████████░  95%
-Python                 ████████████████░░░░░  80%
-C++                    ███████████████░░░░░░  75%
-React/Next.js          ████████████████████░  90%
-Node.js                ███████████████░░░░░░  75%
-```
-
 **Engineering Tools:**
 - **Simulation:** MATLAB/Simulink, ANSYS, SolidWorks
 - **AI/ML:** PyTorch, TensorFlow, scikit-learn

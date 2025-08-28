@@ -27,30 +27,37 @@ I'm a double major in **Computer Science** and **Mechanical Engineering** at the
 
 ---
 
-## Recent Activity
+## Weekly Contribution Patterns
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DDVHegde100&theme=github-compact&hide_border=true&bg_color=0d1117&color=7c3aed&line=7c3aed&point=f8f9fa&area=true&area_color=7c3aed" alt="Contribution Graph"/>
+  <img src="https://custom-github-stats.vercel.app/api/weekly-contributions?username=DDVHegde100&weeks=8&theme=dark&accent=7c3aed" alt="8-Week Contribution Pattern"/>
 </div>
 
 ---
 
-## Technologies
+## Language Distribution (Public Repos)
 
-**Languages & Frameworks:**
-```
-TypeScript/JavaScript  █████████████████████░  95%
-Python                 ████████████████░░░░░  80%
-C++                    ███████████████░░░░░░  75%
-React/Next.js          ████████████████████░  90%
-Node.js                ███████████████░░░░░░  75%
-```
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDVHegde100&layout=compact&theme=transparent&hide_border=true&title_color=7c3aed&text_color=f8f9fa&bg_color=0d1117&exclude_repo=&hide=html,css,scss,less,makefile,dockerfile,shell&langs_count=8&custom_title=Primary%20Languages" alt="Language Stats"/>
+</div>
 
-**Engineering Tools:**
-- **Simulation:** MATLAB/Simulink, ANSYS, SolidWorks
-- **AI/ML:** PyTorch, TensorFlow, scikit-learn
-- **Development:** Docker, AWS, PostgreSQL, MongoDB
-- **Control Systems:** PID Controllers, State-Space Models
+## Repository Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DDVHegde100&show_icons=true&theme=transparent&hide_border=true&title_color=7c3aed&text_color=f8f9fa&bg_color=0d1117&icon_color=7c3aed&hide=issues&show=reviews,prs_merged,prs_merged_percentage&custom_title=Development%20Metrics" alt="GitHub Analytics"/>
+</div>
+
+## Recent Activity Stream
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DDVHegde100&theme=github-compact&hide_border=true&bg_color=0d1117&color=7c3aed&line=7c3aed&point=f8f9fa&area=true&area_color=7c3aed&custom_title=Contribution%20Activity" alt="Activity Graph"/>
+</div>
+
+## Current Streak & Metrics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DDVHegde100&theme=transparent&hide_border=true&stroke=7c3aed&ring=7c3aed&fire=7c3aed&currStreakLabel=f8f9fa&sideLabels=f8f9fa&currStreakNum=7c3aed&sideNums=7c3aed&dates=adb5bd&background=0d1117" alt="GitHub Streak"/>
+</div>
 
 ---
 

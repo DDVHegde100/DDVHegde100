@@ -1,49 +1,70 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=5c9aff&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Dhruv+Hegde!;CS+%2B+MechE+@+University+of+Michigan" alt="Typing SVG" />
-</p>
+<div align="center">
+  <h1 style="font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 300; color: #f8f9fa; margin-bottom: 8px;">
+    Dhruv Hegde
+  </h1>
+  <p style="font-family: 'SF Pro Text', -apple-system, BlinkMacSystemFont, sans-serif; font-size: 18px; color: #adb5bd; margin-bottom: 32px;">
+    Computer Science + Mechanical Engineering @ University of Michigan
+  </p>
+</div>
 
 ---
 
-## About Me  
+## About
 
--  Double majoring in Computer Science and Mechanical Engineering at the University of Michigan — Ann Arbor  
--  Passionate about building working startup features, simulations, front-end user interfaces, and AI projects
--  Currently diving deep into **FEA Frameworks**, **Simulink**, **ANN Optimization**, and **dynamic system control**
--  Interested in startup development, particularly vertical SaaS, innovative digital services, and simulations
+I'm a double major in **Computer Science** and **Mechanical Engineering** at the University of Michigan, passionate about building innovative solutions at the intersection of software and hardware. My work spans from startup MVPs and AI systems to finite element analysis and dynamic control systems.
 
----
+**Current Focus Areas:**
+- Building **MetaLearn** — an adaptive learning platform with concept graphs and AI-driven personalization
+- Developing **FEA frameworks** for structural analysis and optimization
+- Exploring **ANN optimization** techniques for improved model performance
+- Working on **dynamic system control** applications in Simulink
 
-## GitHub Stats  
-
-<table>
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=DDVHegde100&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDVHegde100&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</td>
-</tr>
-</table>
+**Interests & Goals:**
+- Vertical SaaS development and digital service innovation
+- Simulation-driven engineering solutions
+- AI/ML applications in education and engineering
+- Full-stack development with modern frameworks
 
 ---
 
-## Contributions  
+## Recent Activity
 
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DDVHegde100&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
-
-
-## Connect with Me  
-
-<p align="center">
-  <a href="mailto:dhegde@umich.edu"><img src="https://img.shields.io/badge/Email-Dhruv%20Hegde-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/dhruv-hegde-675ab2182/"><img src="https://img.shields.io/badge/LinkedIn-Dhruv%20Hegde-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DDVHegde100&theme=github-compact&hide_border=true&bg_color=0d1117&color=7c3aed&line=7c3aed&point=f8f9fa&area=true&area_color=7c3aed" alt="Contribution Graph"/>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DDVHegde100&label=Profile%20Views&color=0E75B6&style=flat" alt="profile views" />
-</p>
+## Technologies
+
+**Languages & Frameworks:**
+```
+TypeScript/JavaScript  █████████████████████░  95%
+Python                 ████████████████░░░░░  80%
+C++                    ███████████████░░░░░░  75%
+React/Next.js          ████████████████████░  90%
+Node.js                ███████████████░░░░░░  75%
+```
+
+**Engineering Tools:**
+- **Simulation:** MATLAB/Simulink, ANSYS, SolidWorks
+- **AI/ML:** PyTorch, TensorFlow, scikit-learn
+- **Development:** Docker, AWS, PostgreSQL, MongoDB
+- **Control Systems:** PID Controllers, State-Space Models
+
+---
+
+## Connect
+
+<div align="center">
+  <a href="mailto:dhegde@umich.edu">
+    <img src="https://img.shields.io/badge/Email-dhegde@umich.edu-7c3aed?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dhruv-hegde-675ab2182/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dhruv_Hegde-7c3aed?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+<div align="center" style="margin-top: 24px;">
+  <img src="https://komarev.com/ghpvc/?username=DDVHegde100&label=&color=7c3aed&style=flat-square" alt="Profile views" />
+</div>
